@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/hellohome/Downloads/FillBlankDemo-master 2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="26f8d64cb724a7661090890e0d3dc79b6425c92f">
+        <dex dex="/Users/hellohome/Downloads/FillBlankDemo-master 2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9ed112cc70559da3c73d9afa47fb441177054c17/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hellohome/Downloads/FillBlankDemo-master 2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/hellohome/Downloads/FillBlankDemo-master 2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_fece61ece8fb7e0f3744aca6883479356debd651/classes.dex" />
+    </item>
+
+</items>
